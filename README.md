@@ -4,9 +4,10 @@ This is a basic childrens math app.
 Application is for addition practice and based off of one of the more popular kid cartoons.
 I made this for my son, he loves math.
 
+Home-
+
 
 ![Screenshot](https://github.com/Marqueb82/HeroAddCalculator/blob/master/app/src/main/res/drawable/first_calc.png)
-Home Screen--
 
 After submit following screen will provide a random addition problem and have a text field waiting for input
 for answer to problem--
