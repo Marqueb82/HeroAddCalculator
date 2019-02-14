@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">HeroeMathApp</string>
+    <string name="max_multiply">Lets do multiplication!!!!!</string>
+    <string name="max_add">Lets do addition!!!!</string>
+    <string name="greg_help">I need help with my math homework.......</string>
+    <string name="addition">+</string>
+    <string name="Value">( )</string>
+    <string name="word_equals">=</string>
+    <string name="submit_button">SUBMIT</string>
+    <string name="text_here">text will go here</string>
+    <string name="value_button">Lets Go!!!</string>
+    <string name="home_button">HOME</string>
+    <string name="retry_button">Try another problem??</string>
+</resources>
